@@ -1,0 +1,9 @@
+Driver Status:
+When the driver's license (DL) expiration date has passed, we send a notification asking if you want to deactivate it or continue using it. If there is no response, we deactivate it automatically. Users can reactivate it, but they will receive a confirmation prompt.
+Driver App Login Criteria:
+When a driver enters their phone number, they will receive an OTP for validation. This will allow the driver to log in to all the companies where the phone number was used to create the driver account. The driver can easily switch between accounts.
+Required fields to create a driver from web:
+To create a driver, you need to provide the First Name and Phone Number as these are the required fields
+Search Filter:
+You can search for a driver by name, email, or phone number.     
+For any further queries, contact Waqar@gmail.com  
